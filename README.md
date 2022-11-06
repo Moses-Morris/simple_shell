@@ -1,8 +1,9 @@
 a simple UNIX command interpreter.
 
+![image](https://user-images.githubusercontent.com/51841121/200177239-ab8a63e9-cf3b-4606-be53-a33f20585d4b.png)
 
 
-^ “The Gates of Shell”, by Spencer Cheng, featuring Julien Barbier
+ “The Gates of Shell”, by Spencer Cheng, featuring Julien Barbier
 
 Resources
 Read or watch:
