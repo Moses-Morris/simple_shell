@@ -1,4 +1,12 @@
-a simple UNIX command interpreter.
+A simple UNIX command interpreter.
+
+
+
+
+Authors : 
+1. Flesier  Onyango. 
+2. Moses Morris.
+
 
 ![image](https://user-images.githubusercontent.com/51841121/200177239-ab8a63e9-cf3b-4606-be53-a33f20585d4b.png)
 
